@@ -1,0 +1,42 @@
+6 Tehtävä: Tietoturvauhat
+
+1. Ohjelmistohyökkäykset
+
+Todennäköisyyttä voi pienentää pitämällä ohjelmat ja virustorjunnan ajan tasalla sekä välttämällä epäilyttäviä linkkejä ja tiedostoja.
+
+Vaikutuksia voi vähentää ottamalla tärkeistä tiedoista varmuuskopioita ja rajoittamalla käyttäjien käyttöoikeuksia.
+
+
+2. IP-varkaudet
+
+Todennäköisyyttä voi pienentää suojaamalla yrityksen tärkeät tiedot ja antamalla niihin pääsyn vain niille, jotka tarvitsevat niitä.
+
+Vaikutuksia voi vähentää ottamalla varmuuskopioita ja seuraamalla, kuka käyttää tai muokkaa tärkeitä tietoja.
+
+
+3. Identiteettivarkaudet
+
+Todennäköisyyttä voi pienentää käyttämällä vahvoja salasanoja ja kaksivaiheista tunnistautumista sekä olemalla varovainen huijausviestien kanssa.
+
+Vaikutuksia voi vähentää seuraamalla omia tilejä ja vaihtamalla salasanat nopeasti, jos tunnukset joutuvat vääriin käsiin.
+
+
+4. Laitevarkaudet
+
+Todennäköisyyttä voi pienentää pitämällä laitteet turvallisessa paikassa ja käyttämällä lukittuja tiloja.
+
+Vaikutuksia voi vähentää salaamalla laitteen tiedot, käyttämällä salasanaa ja ottamalla varmuuskopioita.
+
+
+5. Sabotaasi
+
+Todennäköisyyttä voi pienentää pitämällä järjestelmät päivitettyinä, käyttämällä palomuuria ja kouluttamalla työntekijöitä tietoturvasta.
+
+Vaikutuksia voi vähentää varmuuskopioilla ja suunnitelmalla, miten järjestelmät palautetaan hyökkäyksen jälkeen.
+
+
+6. Kiristys
+
+Todennäköisyyttä voi pienentää välttämällä epäilyttäviä viestejä ja tiedostoja sekä pitämällä ohjelmistot ja tietoturva ajan tasalla.
+
+Vaikutuksia voi vähentää ottamalla säännöllisesti varmuuskopioita, jotta tiedot voidaan palauttaa ilman hyökkääjän apua.

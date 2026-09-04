@@ -1,0 +1,14 @@
+3 Harjoitus: Pankkiasiointi
+
+1. Pankkini on S-Pankki. Kirjaudun yleensä S-mobiililla ja käytän Face ID:tä tai PIN-koodia. Voin käyttää myös tunnuslukutaulukkoa.
+
+Mielestäni kirjautuminen on turvallista, jos tunnuksia ei anna muille. Rikollinen voi yrittää huijata käyttäjää antamaan pankkitunnukset tai hyväksymään väärän kirjautumisen.
+
+
+2. Maksu vahvistetaan S-mobiilissa esimerkiksi Face ID:llä tai PIN-koodilla.
+
+
+3. Kyllä. Käytän Apple Payta ja se on mielestäni helppo ja nopea tapa maksaa. Maksu vahvistetaan yleensä Face ID:llä tai puhelimen koodilla. Riski voi olla esimerkiksi puhelimen joutuminen väärän henkilön käsiin.
+
+
+4. Mobiilivarmennetta käytetään henkilöllisyyden tunnistamiseen verkkopalveluissa. Sen voi hankkia omalta puhelinoperaattorilta.

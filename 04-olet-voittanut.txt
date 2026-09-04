@@ -1,0 +1,25 @@
+4 Harjoitus: Olet voittanut! Tilauksesi on noudettavissa!
+
+1. Viestissä on epäilyttävä linkki ja siinä väitetään, että paketista puuttuu tullimaksu.
+
+2. Viestissä sanotaan, että olen voittanut palkinnon, vaikka en ole osallistunut arvontaan. Linkki näyttää myös epäilyttävältä.
+
+3. Viesti näyttää tulevan S-Pankilta, mutta siinä pyydetään klikkaamaan linkkiä tilin päivittämiseksi. Viestissä myös yritetään saada käyttäjä toimimaan nopeasti.
+
+4. Viestissä kiristetään ja pyydetään maksamaan 1500 dollaria Bitcoinilla. Siinä uhataan julkaista video, jos maksua ei makseta.
+
+5. Lähettäjän sähköpostiosoite ei kuulu S-Pankille ja viestissä olevat linkit ovat epäilyttäviä.
+
+6. Viestissä väitetään, että salasana vanhenee 24 tunnissa ja pyydetään klikkaamaan linkkiä. Viesti yrittää saada käyttäjän toimimaan nopeasti.
+
+7. Viestissä luvataan uusi iPhone vain yhdellä eurolla. Tarjous on liian hyvä ollakseen totta.
+
+8. Lainatarjous näyttää epäilyttävältä. Viestin ulkoasu on huono ja siinä yritetään saada käyttäjä klikkaamaan lainalinkkiä.
+
+9. Yrityksen pitää todistaa, että asiakas on hyväksynyt tilauksen. Puhelinmyynnissä yrityksen pitää lähettää tarjous kirjallisesti puhelun jälkeen ja asiakkaan pitää hyväksyä se, jotta sopimus syntyy.
+
+Lähde:
+Kilpailu- ja kuluttajavirasto (KKV), Puhelinmyynti
+https://www.kkv.fi/kuluttaja-asiat/puhelin-ja-kotimyynti/puhelinmyynti/
+
+10. Viime vuonna sain huijausviestin, joka näytti olevan Zaralta. Viestissä mainostettiin Black Friday -tarjouksia ja joitakin tuotteita sai muka vain yhdellä eurolla. Viestissä oli linkki tarjoukseen. Luulen, että huijari yritti saada minut avaamaan linkin ja antamaan maksutietoni.
