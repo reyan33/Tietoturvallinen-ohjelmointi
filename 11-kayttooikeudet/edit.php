@@ -9,6 +9,8 @@ if (!isset($_SESSION['user'])) {
 
 include 'connect.php';
 
+/** @var PDO $conn */
+
 $id = $_GET['id'];
 
 $sql = "SELECT * FROM posts WHERE id = :id";
