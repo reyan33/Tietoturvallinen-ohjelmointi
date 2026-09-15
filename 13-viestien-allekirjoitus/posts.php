@@ -1,5 +1,7 @@
 <?php 
 include 'connect.php';
+
+/** @var PDO $conn */
 ?>
 
 <ul>

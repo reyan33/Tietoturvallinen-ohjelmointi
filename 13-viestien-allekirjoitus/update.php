@@ -9,6 +9,7 @@ if (!isset($_SESSION['user'])) {
 
 include 'connect.php';
 
+/** @var PDO $conn */
 $id = $_POST['id'];
 $title = $_POST['title'];
 $body = $_POST['body'];

@@ -13,6 +13,8 @@ if ($_SESSION['user']['role'] !== 'admin') {
 
 include 'connect.php';
 
+/** @var PDO $conn */
+
 $id = $_GET['id'];
 
 $sql = "DELETE FROM posts WHERE id = :id";
