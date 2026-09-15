@@ -1,5 +1,7 @@
 <?php
 include 'connect.php';
+
+/** @var PDO $conn */
 session_start();
 
 $title = $_POST['title'];
